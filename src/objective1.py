@@ -1,5 +1,6 @@
 """
 Linked Lists -  single and double -  core operations: access, search, insert and delete. LL linked nodes to nodes
+One node always points to another node
 
 Single - Nodes linked in a one-way manner. Value to next_node, next location. Searching is better is nodes point to other nodes
         The first node is the head, last node is the tail. Next-node is linked list node(1, ...) The last or tail next node is None or another linked list.
